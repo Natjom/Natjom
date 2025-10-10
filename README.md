@@ -13,7 +13,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Natjom&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Doggo785&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Doggo785&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Natjom&icon=3&color=8)](https://visitcount.itsvg.in)
