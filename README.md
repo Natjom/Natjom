@@ -25,16 +25,16 @@
 - **OS** : Windows · Linux  
 - **Approche** : créativité · modding · open source  
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Natjom&color=00E5FF&style=flat-square" alt="visitors" />
 </p>
 
 ---
 
-## 🧩 Projets récents
+## Projets récents
 
-- **Nocturne** — Recréation du jeu *Loup Garou pour une nuit* dans Minecraft sous forme de mod.  
-- **ACMod** — Écosystème RP custom pour un serveur Minecraft orienté rôle et narration.  
+- **Nocturne** : Recréation du jeu *Loup Garou pour une nuit* dans Minecraft sous forme de mod.  
+- **ACMod** : Écosystème RP custom pour un serveur Minecraft orienté rôle et narration.  
 
 ---
 
