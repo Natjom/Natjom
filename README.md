@@ -21,9 +21,9 @@
 ## À propos
 
 - **Langages principaux** : Java · C# · C++
-- **Outils / Frameworks** : IntelliJ · Forge · .NET  
-- **OS** : Windows · Linux  
-- **Approche** : créativité · modding · open source  
+- **Outils / Frameworks** : JetBrain suite · Forge · .NET  
+- **OS** : ArchLinux · Windows 11
+- **Approche** : créativité · modding · *open source*
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Natjom&color=00E5FF&style=flat-square" alt="visitors" />
