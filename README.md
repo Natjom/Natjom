@@ -20,9 +20,9 @@
 
 ## À propos
 
-- **Langages principaux** : Java · C# · C++
-- **Outils / Frameworks** : JetBrain suite · Forge · .NET  
-- **OS** : ArchLinux · Windows 11
+- **Langages principaux** : Java · C++
+- **Outils / Frameworks** : JetBrain suite · Forge
+- **OS** : ArchLinux
 - **Approche** : créativité · modding · *open source*
 
 <p align="left">
@@ -34,7 +34,6 @@
 ## Projets récents
 
 - **Nocturne** : Recréation du jeu *Loup Garou pour une nuit* dans Minecraft sous forme de mod.  
-- **ACMod** : Écosystème RP custom pour un serveur Minecraft orienté rôle et narration.  
 
 ---
 
